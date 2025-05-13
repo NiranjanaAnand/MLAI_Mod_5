@@ -25,6 +25,6 @@ Explore the Jupyter notebook below with in-depth analysis and insights:
 ## 📊 Key Findings
 
 
--**Coupon acceptance is high among drivers who traveled with friends.**
--**Coupon acceptance has a positive regression with the number of visits.**
--**Age also plays an important role in the acceptance of the coupons. higher the age people accepted the coupons more.**
+- **Coupon acceptance is high among drivers who traveled with friends.**
+- **Coupon acceptance has a positive regression with the number of visits.**
+- **Age also plays an important role in the acceptance of the coupons. higher the age people accepted the coupons more.**
